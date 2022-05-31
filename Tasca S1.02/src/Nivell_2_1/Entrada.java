@@ -236,7 +236,7 @@ public class Entrada {
 			}
 			else {
 				
-				System.out.println("Escribe s si quieres volver a escribir el caracter, escribe n si quieres finalizar.");
+				System.out.println("Error de formato!");
 				System.out.println(missatge);
 				input = sc.nextLine();
 			}
